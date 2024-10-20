@@ -14,8 +14,13 @@ Un message d’attente est affiché pour faire patienter l’utilisateur
 1.    Nous téléchargeons les données…
 2.    C’est presque fini…
 3.    Plus que quelques secondes avant d’avoir le résultat…
+
 Gérer les erreurs d’API
+
 Lorsque la jauge est remplie elle affiche les résultats obtenus sous forme d’un tableau de 5 lignes (une ligne par ville) sur le même écran (au-dessus de la jauge par exemple)
+
 Afficher à minima le nom de la ville, la température, la couverture nuageuse (sous forme d’un picto par exemple)
+
 La jauge se transforme en bouton « Recommencer »
+
 Il est possible de faire back pour revenir à l’écran d’accueil 
